@@ -53,8 +53,7 @@ timeItem.startBtn.addEventListener('click', () => {
       timeItem.secondsRemaining.textContent = result.seconds;
     }
   }, 1000)
-  // console.log(new Date());
-  // console.log(options.selectedDates.date);
+  
 })
 
 function addLeadingZero(value) { 
@@ -80,3 +79,4 @@ function convertMs(ms) {
   return { days, hours, minutes, seconds };
 }
 
+/
