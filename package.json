@@ -2,14 +2,14 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://github.com/Pug10rd/parcel-project-template",
+  "homepage": "https://pug10rd.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pug10rd/parcel-project-template"
+    "url": "git+https://github.com/Pug10rd/goit-js-hw-09"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
